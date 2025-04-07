@@ -1,6 +1,11 @@
 {
+<<<<<<< HEAD
     "name": "site1",
     "description": "Site 1 API",
+=======
+    "name": "site2",
+    "description": "Site 2 API",
+>>>>>>> c965fec82bb42630d09d86697fa045c3c199a578
     "keywords": ["framework", "laravel", "lumen"],
     "license": "MIT",
     "type": "project",

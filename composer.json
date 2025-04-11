@@ -1,17 +1,18 @@
 {
-<<<<<<< HEAD
-    "name": "site1",
-    "description": "Site 1 API",
-=======
-    "name": "site2",
-    "description": "Site 2 API",
->>>>>>> c965fec82bb42630d09d86697fa045c3c199a578
+    "name": "laravel/lumen",
+    "description": "The Laravel Lumen Framework.",
     "keywords": ["framework", "laravel", "lumen"],
     "license": "MIT",
     "type": "project",
     "require": {
         "php": "^8.1",
-        "laravel/lumen-framework": "^10.0"
+        "firebase/php-jwt": "^6.11",
+        "flipbox/lumen-generator": "^9.3",
+        "illuminate/auth": "^10.48",
+        "laravel/lumen-framework": "^10.0",
+        "ext-mysqli": "*",
+        "laravel/tinker": "^2.10",
+        "tymon/jwt-auth": "^2.2"
     },
     "require-dev": {
         "fakerphp/faker": "^1.9.1",
